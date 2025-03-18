@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<p align="right"> 
+    <img src="https://preview.redd.it/master-chief-halo-infinite-v0-4q8h5v0sktna1.png?auto=webp&s=d9d38bde4fa33c236c88ce3c4fd7d3dc6627edcb" width="50px" height="50px" alt="Profile count" /> 
+</p>
 
 <div align="center">
 
