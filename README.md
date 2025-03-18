@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Alape">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2024/04/Goku-png-sin-fondo.png?fit=1000%2C1000&ssl=1" alt="Avatar photo of William Alape">
   </div>
   <div align=center>
     <center>
@@ -209,8 +209,8 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 -----
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
+Credits: [William Alape]()
+Last Edited on: 17/03/2025
 
 <!---
 Williamalaperivera/Williamalaperivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
