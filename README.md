@@ -16,7 +16,7 @@
   </div>
   <div align=center>
     <center>
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%C2%B4m+William+Alape;Welcome+to+my+profile!;I%C2%B4m+Software+engineering+student;I+like+teamwork;I+Love+Chess+and+go+to+the+Gym;I+Love+Chess+and+go+to+the+Gym;I+love+motorcycles" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I%C2%B4m+William+Alape;Welcome+to+my+profile!;I%C2%B4m+Software+engineering+student;I+like+teamwork;I+Love+Chess+and+go+to+the+Gym;I+Love+Chess+and+go+to+the+Gym;I+love+motorcycles" alt="Typing SVG" /></a>
        <center>
   </div>
 </div>
