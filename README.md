@@ -5,7 +5,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+![Top of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/1halo.png?alt=media&token=b56de2aa-76d2-4a47-a107-73dd9c61985c)
 
 <details>
 <summary>Open profile</summary>
@@ -198,7 +198,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+![Bottom of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/3.png?alt=media&token=361d2217-df3f-4b9a-9aa5-b6ae65b7df2b)
 
 </div>
 
