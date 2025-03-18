@@ -15,7 +15,9 @@
       <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Alape">
   </div>
   <div align=center>
+    <center>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%C2%B4m+William+Alape;Welcome+to+my+profile!;I%C2%B4m+Software+engineering+student;I+like+teamwork;I+Love+Chess+and+go+to+the+Gym;I+Love+Chess+and+go+to+the+Gym;I+love+motorcycles" alt="Typing SVG" /></a>
+       <center>
   </div>
 </div>
 
