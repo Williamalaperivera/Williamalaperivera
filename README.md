@@ -14,7 +14,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2024/04/Goku-png-sin-fondo.png?fit=1000%2C1000&ssl=1" alt="Avatar photo of William Alape">
+      <img height="200" alt="https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/gifHUB.gif?alt=media&token=45166272-c764-4367-af72-2e44dfb7decf" src="https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/gifHUB.gif?alt=media&token=45166272-c764-4367-af72-2e44dfb7decf" alt="Avatar photo of William Alape">
   </div>
   <div align=center>
     <center>
