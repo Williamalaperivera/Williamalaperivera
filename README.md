@@ -5,7 +5,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/1halo.png?alt=media&token=b56de2aa-76d2-4a47-a107-73dd9c61985c)
+![Top of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/1.1.png?alt=media&token=704302e0-6fcb-47c9-8ee9-9bf54d598efb)
 
 <details>
 <summary>Open profile</summary>
@@ -196,7 +196,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/3.png?alt=media&token=361d2217-df3f-4b9a-9aa5-b6ae65b7df2b)
+![Bottom of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/2.1.png?alt=media&token=7c882cbb-8f59-4d49-81d8-76cb5e96d3d8)
 
 </div>
 
