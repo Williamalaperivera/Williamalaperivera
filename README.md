@@ -33,18 +33,18 @@
  * Represents me.
 * <img width="25px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhpMHcxazF2aDhpeXYwcG1uZzJ2NzVmbGtleXJwZnl6Y2I2a2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif"/> From: Medellin Colombia
   
- * <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9keXhtMDZ4czhtNzdyNjd2cDByZThkNGN1bWxmdzBuYjc3eHR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0itSaTnyz59giRpfg/giphy.gif"/> Languages: English, Spanish.
- *  <img width="35px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhMTczeXNsMW9sYzR1bm5vbDJzMDl1cGNnZjkzM28wZGxyemE2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif"/>Job Title: Software Engineer.
- *  <img width="35px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhiM2J0cjVrNXRmeGgxeTNoMnlnZXY2aWo4Y2NpZTRiNDF5ZDB6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9t0liZ4Qtm0qeuLZHa/giphy.gif"/>Specialization: Building full-fledged web applications.
- *  <img width="35px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NiYnMwMmZxMGNjaXFrY3UwMWVlZzNtd2sxNmJzcTYxdTRhc2xpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUtSoZBvnOjqg3rMk9/giphy.gif"/>Interests: AI, writing, and problem-solving.
- *  <img width="35px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF0azF3NGoxeTJrZWFlYmE4eG95bXFjaWdxbHd2cnN3dzVrOGxuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FyX4cz5yDuVWAwtxkM/giphy.gif"/>Hobbies: Climbing, reading, triathlons, and playing music.
- *  <img width="35px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1jNG1vaXE5MGFkNnk5aXluemprcDBwem14MDMxN2k5eG5paGljcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUvcucJqlHzMUEBi7z/giphy.gif"/>Education: Software Engineering at Universidad Iberoamericana.
- * <img width="35px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR6dnZsbm5pY2RtazJ5Mmx4aXRhcGZwb3EzdXQ4YXA5ejhhOXoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif"/>Approachable: Yes! Open to collaborating on exciting projects—don’t hesitate to reach out.
- *  <img width="35px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ3djI4YTR2azJzNTZoaDhuM2RzbTIzc284d2JhYTBzZGhhdW1zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YatMYxMwKKoPNPMNEJ/giphy.gif"/>Strength: Resolute.
- * <img width="25px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJjbXp1MzMwMm1wYnNicHJlam1lOTF2YWJoeTc5cW9scTNtaXVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a8IOERP1rOE3KImqBn/giphy.gif"/>Weakness: Shyness.
- * <img width="25px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5qMDN3Z2U2cW11MzE1ZXl0NGFwdDlkMXV2eWYxOWNkeXp5cDhxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Td2KNheKp39VbCK6qm/giphy.gif"/>Birthday: October 27th.
- * <img width="25px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhzdzdkbG92eW43MjVtdDEza2lmcXBteGNqOGtkbGNicTVrYjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7oy6NIbzfK7yGndgd/giphy.gif"/>Bugs: Eliminated with a punch!
- * <img width="25px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc3djhqdGpvNXQwNzhrNWQzbXluZ3Jqa3JocGJwZ3pleDl4bGl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGpWeaXucL5XYKfaLg/giphy.gif"/>Returns: Austinae.
+ * <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9keXhtMDZ4czhtNzdyNjd2cDByZThkNGN1bWxmdzBuYjc3eHR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0itSaTnyz59giRpfg/giphy.gif"/> Languages: English B1, Spanish Native and Portugues A1.
+ *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhMTczeXNsMW9sYzR1bm5vbDJzMDl1cGNnZjkzM28wZGxyemE2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif"/>Job Title: Software Engineer.
+ *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhiM2J0cjVrNXRmeGgxeTNoMnlnZXY2aWo4Y2NpZTRiNDF5ZDB6NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9t0liZ4Qtm0qeuLZHa/giphy.gif"/>Specialization: Building full-fledged web applications.
+ *  <img width="45px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2NiYnMwMmZxMGNjaXFrY3UwMWVlZzNtd2sxNmJzcTYxdTRhc2xpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sUtSoZBvnOjqg3rMk9/giphy.gif"/>Interests: AI, writing, and problem-solving.
+ *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXF0azF3NGoxeTJrZWFlYmE4eG95bXFjaWdxbHd2cnN3dzVrOGxuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FyX4cz5yDuVWAwtxkM/giphy.gif"/>Hobbies: Climbing, reading, triathlons, and playing music.
+ *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1jNG1vaXE5MGFkNnk5aXluemprcDBwem14MDMxN2k5eG5paGljcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QUvcucJqlHzMUEBi7z/giphy.gif"/>Education: Software Engineering at Universidad Iberoamericana.
+ * <img width="45px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR6dnZsbm5pY2RtazJ5Mmx4aXRhcGZwb3EzdXQ4YXA5ejhhOXoxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif"/>Approachable: Yes! Open to collaborating on exciting projects—don’t hesitate to reach out.
+ *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZ3djI4YTR2azJzNTZoaDhuM2RzbTIzc284d2JhYTBzZGhhdW1zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YatMYxMwKKoPNPMNEJ/giphy.gif"/>Strength: Resolute.
+ * <img width="45px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJjbXp1MzMwMm1wYnNicHJlam1lOTF2YWJoeTc5cW9scTNtaXVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/a8IOERP1rOE3KImqBn/giphy.gif"/>Weakness: Shyness.
+ * <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5qMDN3Z2U2cW11MzE1ZXl0NGFwdDlkMXV2eWYxOWNkeXp5cDhxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Td2KNheKp39VbCK6qm/giphy.gif"/>Birthday: October 27th.
+ * <img width="45px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhzdzdkbG92eW43MjVtdDEza2lmcXBteGNqOGtkbGNicTVrYjNpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7oy6NIbzfK7yGndgd/giphy.gif"/>Bugs: Eliminated with a punch!
+ * <img width="45px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWc3djhqdGpvNXQwNzhrNWQzbXluZ3Jqa3JocGJwZ3pleDl4bGl0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TGpWeaXucL5XYKfaLg/giphy.gif"/>Returns: Austinae.
 </kbd>
 
 
