@@ -1,5 +1,5 @@
 <p align="right"> 
-    <img src="https://preview.redd.it/master-chief-halo-infinite-v0-4q8h5v0sktna1.png?auto=webp&s=d9d38bde4fa33c236c88ce3c4fd7d3dc6627edcb" width="50px" height="50px" alt="Profile count" /> 
+    <img src="https://static.wikia.nocookie.net/logopedia/images/b/b1/Halo_2_Symbol.png/revision/latest?cb=20210806223206&path-prefix=es" width="90px" height="90px" alt="Profile count" /> 
 </p>
 
 <div align="center">
