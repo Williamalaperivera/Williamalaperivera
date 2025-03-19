@@ -1,5 +1,8 @@
 <p align="right"> 
-    <img src="https://static.wikia.nocookie.net/logopedia/images/b/b1/Halo_2_Symbol.png/revision/latest?cb=20210806223206&path-prefix=es" width="90px" height="90px" alt="Profile count" /> 
+    <img src="https://static.wikia.nocookie.net/logopedia/images/b/b1/Halo_2_Symbol.png/revision/latest?cb=20210806223206&path-prefix=es" 
+         width="90px" height="90px" 
+         alt="Profile count" 
+         style="pointer-events: none;" /> 
 </p>
 
 <div align="center">
