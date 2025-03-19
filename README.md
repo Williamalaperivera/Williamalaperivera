@@ -31,7 +31,7 @@
 <div align="left">
 
  * Represents me.
-* <img width="25px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhpMHcxazF2aDhpeXYwcG1uZzJ2NzVmbGtleXJwZnl6Y2I2a2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif"/> From: Medellin Colombia
+* <img width="45px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhpMHcxazF2aDhpeXYwcG1uZzJ2NzVmbGtleXJwZnl6Y2I2a2UwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lnsTFyT6wUzItXsUV5/giphy.gif"/> From: Medellin Colombia
   
  * <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW9keXhtMDZ4czhtNzdyNjd2cDByZThkNGN1bWxmdzBuYjc3eHR6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0itSaTnyz59giRpfg/giphy.gif"/> Languages: English B1, Spanish Native and Portugues A1.
  *  <img width="45px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBhMTczeXNsMW9sYzR1bm5vbDJzMDl1cGNnZjkzM28wZGxyemE2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif"/>Job Title: Software Engineer.
@@ -177,7 +177,7 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:guerrandw@gmail.com">contact me by email</a>, I won't bite, I promise.
+If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="williamjoel273@gmail.com">contact me by email</a>, I won't bite, I promise.
 
   </td>
   <td width="50%" valign="top">
