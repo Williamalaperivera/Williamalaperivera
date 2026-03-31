@@ -8,7 +8,7 @@
 <div align="center">
 
 
-![Top of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/1.1.png?alt=media&token=704302e0-6fcb-47c9-8ee9-9bf54d598efb)
+![Top of halo](https://dofwtblipdsnmtvbryxu.supabase.co/storage/v1/object/sign/web404/1halo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8wYTM0YjkxYS0wMzBjLTQ3ZmItYjdiMy04NGQzYWI3ZGI2Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWI0MDQvMWhhbG8ucG5nIiwiaWF0IjoxNzc0OTE1OTg3LCJleHAiOjE4MjkzNDc5ODd9.pYQJlIdKiWRDAmrlKEHmqeHd4TXeFCniQpGEKJsGEec)
 
 <details>
 <summary>Open profile</summary>
@@ -191,7 +191,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 </details>
 
-![Bottom of pokeball](https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/2.1.png?alt=media&token=7c882cbb-8f59-4d49-81d8-76cb5e96d3d8)
+![Bottom of halo](https://dofwtblipdsnmtvbryxu.supabase.co/storage/v1/object/sign/web404/2halo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8wYTM0YjkxYS0wMzBjLTQ3ZmItYjdiMy04NGQzYWI3ZGI2Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWI0MDQvMmhhbG8ucG5nIiwiaWF0IjoxNzc0OTE2MDY4LCJleHAiOjE4MDY4ODQwNjh9.Bdmx2N1CGHX76Nixdu5F7170g4SSiVwkBklblHi-KvI)
 
 </div>
 
