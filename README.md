@@ -17,7 +17,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/gifHUB.gif?alt=media&token=45166272-c764-4367-af72-2e44dfb7decf" src="https://firebasestorage.googleapis.com/v0/b/tv-en-vivo-hd.appspot.com/o/gifHUB.gif?alt=media&token=45166272-c764-4367-af72-2e44dfb7decf" alt="Avatar photo of William Alape">
+      <img height="200" alt="https://dofwtblipdsnmtvbryxu.supabase.co/storage/v1/object/sign/web404/portafolioProfilePNG.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8wYTM0YjkxYS0wMzBjLTQ3ZmItYjdiMy04NGQzYWI3ZGI2Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWI0MDQvcG9ydGFmb2xpb1Byb2ZpbGVQTkcucG5nIiwiaWF0IjoxNzc1MDU5ODQ0LCJleHAiOjE4MzI5NDc4NDR9.w3UONYgEm_ENneGRPRQsa5l2DoSq4q03VQkRysMg-2U" src="https://dofwtblipdsnmtvbryxu.supabase.co/storage/v1/object/sign/web404/portafolioProfilePNG.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV8wYTM0YjkxYS0wMzBjLTQ3ZmItYjdiMy04NGQzYWI3ZGI2Y2YiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3ZWI0MDQvcG9ydGFmb2xpb1Byb2ZpbGVQTkcucG5nIiwiaWF0IjoxNzc1MDU5ODQ0LCJleHAiOjE4MzI5NDc4NDR9.w3UONYgEm_ENneGRPRQsa5l2DoSq4q03VQkRysMg-2U" alt="Avatar photo of William Alape">
   </div>
   <div align=center>
     <center>
